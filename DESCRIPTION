@@ -1,0 +1,11 @@
+Package: Comorbilidades
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Navarrabiomed ER
+Maintainer: The package maintainer <ibai.tamayo.rodriguez@navarra.es>
+Description: Applyes the comorbidity package to single table with ICD9 and ICD10
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
